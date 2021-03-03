@@ -57,7 +57,7 @@ if(isset($_POST['name'])){
         <p>Enter your details and submit the form </p>
         <?php
         if($insert == true){
-        echo "<p class='submitMsg'>Thanks for submitting your form</p>";
+        echo "<p class='submitMsg'>Thanks for submitting your form. We are happy to see you joining us for the US trip</p>";
         }
     ?>
         <form action="index.php" method="post">
@@ -70,7 +70,7 @@ if(isset($_POST['name'])){
             <button class="btn">Submit</button> 
         </form>
     </div>
-    
+    <script src="index.js"></script>
     
 </body>
 </html>
