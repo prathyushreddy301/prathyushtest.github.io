@@ -1,0 +1,83 @@
+
+body{
+    background-image: url('spidy.jpg');
+  background-repeat: no-repeat;
+  background-attachment:scroll;
+  background-size: cover;
+    
+}
+h1{
+    text-align: center;
+    
+    font-weight: bold;
+    color:black;
+
+}
+img{
+    max-width: 100%;
+  height: auto;
+}
+
+a{
+    align-content: center;
+}
+ul{
+display: inline-block;
+background-color: whitesmoke;
+}
+li{
+    display: inline-block;
+}
+.head1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+  width: 500px;
+  margin: auto;
+
+  border: 3px solid ;
+  font-size:22px;
+  background-color:gray;
+}
+  /*
+  
+  animation-name: head;
+  animation-duration: 5s;
+  animation-iteration-count:initial;
+   text-align: center;
+   color:black;
+   font-weight: bold;
+        
+*/
+
+
+
+/*
+@keyframes head{
+    from{ 
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 14px;
+        font-weight: light;
+       color:white
+
+    }
+    to{
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 18px;
+        color:black;
+        font-weight: bold;
+        
+       
+    }
+
+}
+*/
+
+
+
+.ulstyle{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    //border-style:solid;
+    font-size:18px;
+
+}
+
